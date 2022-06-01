@@ -1,0 +1,5 @@
+To jest 8 plik tekstowy, pozosta³o 25 plików.
+Kolokwium nr 5.
+Liczba wielkich liter: 2
+Iloœæ pominietych wartoœci: 5
+Suma wszystkich liczb w pliku wejœciowym: 13966
